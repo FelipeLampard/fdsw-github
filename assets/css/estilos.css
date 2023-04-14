@@ -4,6 +4,8 @@ body {
 
 .navbar-brand img{
   width: 20rem;
+}
+.container{
   background-color: #000000;
 }
 /* Hero Section */
